@@ -67,7 +67,9 @@ It converts a csv file (with the format mentioned above) to a .aedat file.
 *No specific use here.*
 
 #### spinnaker/scripts/annotate.ipynb
-**Prerequisite:  Install labelme and opencv**
+**Prerequisites:**
+- Install labelme and opencv
+
 ``` shell
 sudo apt install labelme
 sudo apt install python3-opencv
@@ -191,7 +193,7 @@ Now build the package. Four nodes should be generated:
  rosrun package_name featurer
  rosrun package_name visualizer
 ```
-- Use features from**/feat** topic to feed your controller.
+- Use features from **/feat** topic to feed your controller.
 
 ## Extras
 - Find topics from spinnaker user groups related to this work [here](https://groups.google.com/u/0/g/spinnakerusers/search?q=Vaggelis%20Ntouros)
