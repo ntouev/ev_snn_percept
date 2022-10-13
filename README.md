@@ -1,4 +1,4 @@
-# A framework for DVS event streams manipulation and contour-based areas real-time detection and tracking.
+# A framework for DVS event streams manipulation and contour-based areas real-time detection and tracking, using Neuromophic Computing.
 
 ## Overview
 ![](../images/drone-dvs.png)
