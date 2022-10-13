@@ -1,0 +1,39 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          40.790026246719165,
+          0.9186351706036745
+        ],
+        [
+          23.99212598425197,
+          126.11548556430446
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "../png/00177.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAEDElEQVR4nMWa2XLsIAxEO658N+niw6fywGIWgT1jmlHdG8arjoUkhPHPH2rxbrLZHFwhR/7F0DQqHAD4aksMsFuO61OAV2z99CwhgNI8NwF08tNGQS9Mzy+IgVsWyABuhw9QoONzgPTsDM3+LsgAcftLYZgwFOpvhmHsAkUmtgE43fwGADXmHwIE8QmFoAM0PTADcBEgeYBGpk7oAYBfBIg2fw4wucN1GBIgvH+UBp4CAG6pA/ItABAea/OgATC9PSXxVwGY4xxTQ6H+CFDpT2FXN25NHmK74/f6nLC9yAc6gCPv6g6FHUyJ6NUeXyOTiQmr1onq52PkYq3JJfUY2jzA82evT1kRMf5jd5zIXrjWBEnVz98Zdr169awEwFE6m00Q9GvUNz5gAaQgEAKYahv9OoK7AF7VB+P0EjTmgmyVBXgbIGkkltYD9wHi6YSH0wXBZUUU5wSLBuNPAEJBJg3DmfqkWxYEQwCmvwTgv2ABxoZAp32pNS6jIJmgkKXWyABsWiBmIV7NzZ8ZpHtPWA3KTESqwdioillhxEaXhzofYNUJ4klJD+AjQ+sRa+emlfTviksnSL91LmCEIfOfojeeOgGHRwZ5oAV4aoG3AS6vWyZTgA0ucAGg13/LAk43GN96R6QcjCMA0xatU5xmrSYBcAwQS3JvOQG7PU8AevFZi7ftvwxgvmxnTpiXCidOeGoXusAUAKBSdxAbwGcE4CuJyJX66ygk1sosERFGCpIDsOj51cosmYYhCfJ7g9HTxaJ7V3evaFj/fFAXPweoykOVFF3AYk68RP+tS68ASH5cDbwL0F/OACBNx/OxoGhUMs4D3JOIri1Q9QD70xYAvNHHGgBlpr0FMJINbwfeB+j3LAeIKgYj0acAw+uMldN4QX5+zZJtklEXbOl/G4A+jsNR1ifi6o7DTJh9QFoP3cmEokXrSwAmhBsTeAWAflYYZRKGewLBnhcUIvZBswuIciwWT08tCxSNf7Rcxk8A3rhWCrBNjqaL6eviXP+Cou1ixxCCJ5IYoNlmOR/y2wBaJdECO4pFG2BjKm66oNebPm3dCsBG6UaAU2FQKlwumwHkEYnKb6pnAGdtXnzOyXVai1uNusCIAhGAeVumzxjLowsBCjEswPD89FBPzYHeAj59NAA4yVDU6OtqwuZz8vVR2AL0FRFRTMw2dEEHgPOjDd8eeSrGLcypmXexFlaXxOgsUD/6Bv0tgIvLhI561SaABxxePn3AJK8ILQsAeUb8hS7Ie/22NySdHiJYgNhQlHcAHiD40jy+edPf/hTm1aLXWg7zbkd7mOARh8Ju2qSQGoCZwxV/O+FagPMxg34mFxzKYoCy6iMHQ6FMjlpXKEYYH3Lf1OysQ5gskP6r5R/CqTIiJsfGJwAAAABJRU5ErkJggg==",
+  "imageHeight": 128,
+  "imageWidth": 128
+}

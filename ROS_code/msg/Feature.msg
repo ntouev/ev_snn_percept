@@ -1,0 +1,11 @@
+int8 p1x
+int8 p1y
+int8 p2x
+int8 p2y
+int8 p3x
+int8 p3y
+int8 p4x
+int8 p4y
+float32 r
+float32 theta
+int32 t

@@ -1,0 +1,39 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          37.115485564304464,
+          1.3123359580052494
+        ],
+        [
+          16.249343832020998,
+          126.64041994750656
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "../png/00228.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAEDElEQVR4nO1bSZKjQAxMKvrdskIP98yh9oXCMybFpdURbRswmWgrSeDjBQCqqNJ9AGAQ8OR4fXqkcWj8XKAC+fpJalgRaGwgq423SgCmM7cbCu5X+JsvX/qAKqDfwW/lwgcSCRo8EC72mz5KQKMXMklcEShvlMTh00TEisKdBliQ/0bAYPWDMwEANRU+RiAthTQXuHJC0hLYyIUGCr76E4iQ9jQBIeOfErD+le6EJlt3I67HiQDvCq8kYDSwLY+jyedVMUlWTuiqgxWB6o5mANlBsgkGkBgT/ERcNdDjD13IsJNCYADRBQ1XAr3s9t1GYAHpEg275fgdX5RK4JNERA3DtQa0+U+WvQYcEsHGB8wlDnsC1vx3yQK/q+GKgI2ep1QCSxN4FmjnPtAqopnW3S3BUtUBWOmFLf0BgBoAEWHFxPHKxQcg3Vg2vzVAaPMR4DggUI1wOfU84AMmi9YkbWBOCcukVCAGwLp1KPeFytRIEwUDjBZkIjxwvHoNl0+qkcH36PtT/HT769tkjCkt/g+B7d7WBOPRBojhvT/Bt9IMqwd1x5jkz4gM5bJ7bxDhDokzAQGgq1FQztBkCUCTgBsrGCCm/OJgWA0jgeL6Djk5xFUvmz/+L5530rreKdua0ISvhO01ytmOG2WlAe7yN0iIiB2+68xuRQBALs2eMYGrJCfUcXupVac9N8vxSpG2MryHM5yYwGNAlwj80TUDp+Y4F6UYjG0i8OlSzzRQmbAJXK0FbAn15qi5qHyU4wVogAxep8ErDNYm8IvCfkKi+Y0fPkJr+DnzKb8mPLaXy/eFE4BSpgtbBaFTQOkF8nCE3xxMY7oWUcAPiEIgzSfytRdVCLkiKAQisBgAKNJQzPh1cWMCgwgkTgaSPuguuLp3XIZ1kj7p9KU7pU3Fjgm4StVAuxq12ZFOQKdhUJ2RKoVAd8owzMjQWCI9SXe7H3YE8owo5hwtuPXo7vD7JYVhrolgXfIlgwNTQTIFAr1TDj3MrH4yftRAtvNwuQ7wdU6oisXS6DGkKgM6QEVLcc5HTpK7Y4VOBZjLqOboHu/vgsBnUhNUGygZGlIHCsvGxBxvXU2O73TXvkjRgDNukVoTyjvOisYjpg0kAqdIjgTyiNR1TFAJaEw8obZFN4vuCShUoY0nvjffupHAT7u7OySU3zZQpRvV1mUZ6hWUJ1MyPevbmQRMfJJvL00Ylj7Ylca8FiQCXixaAoom+h8goIrcDTvmwvVawB6LNPLRj92YMjphVn6BJeOPv7bLcH4ZoZjgiSQETA82u5YCPYEo4twXTQS0e7lZlmddhaHrtGzQQJyPJE9QDwK9BvxuFRWpGjCc3j1wIWBlOgvXKCgPNEbgQH5ybJakgXzpCd+RxV//XTv+jycZvgAAAABJRU5ErkJggg==",
+  "imageHeight": 128,
+  "imageWidth": 128
+}

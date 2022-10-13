@@ -1,0 +1,39 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          37.77165354330708,
+          125.85301837270342
+        ],
+        [
+          53.519685039370074,
+          1.4435695538057742
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "../png/00133.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAEA0lEQVR4nM2b67KkKgyF11jnuZlVeXBrfgCKiiRAaE+q9lZbMF/nwtX+8xdWIeMfjkNPzTfZILnUe/3zQAAiryUH5I/dAgmD3TqaVTZD/YtxCPRaoKW/3wKAhO4qDdkefKwhl5+46sf2cEITgIBEF7DbE28A1y8kVf0lxx5r0MkS9+8fmiGb7kk7rqYAQNai4jzlBglCJbbt8sgCU547JsLNAgbjiggC3CxwA2h9s9QE7yEWmgdgBeA9twQ3xe0sZPNuUaa3Jcwh8gzVQdEAHjHp2xDrLiBu5nTW/2yIKmUSgFQ/9QZoyJVtYFwwC3C1gJP+CQv8HqAQ+QTg9DoD+gdmcwAsAeLxPR/5eqciA2NCEnp7ZE6SXgDZrU82ytbjSwIh6XebnNzHhFYUrRbtAD1qFxQdawcUBbWbbxU2/XHVamsA7By7uaQmgy7gGgD7Y10BjpQ25Laf4gLgSGlTboszSG6KraPc2Ac4jky7+oJimcpNnpPTFgCGlmj8AOJ935nBwHgAEMfZwVBnFGb083o50hJyKghmAAgAUllZ61Y7AiDHv33neyq8aHoF6G4HyqOHWCzAx4mjfA4w1A5cZNIfpwXMuXUpqHZiyu0eC5Dwjb9eAH/lwODsGK4zo56iFEnr9W69UWdfEAIlVPpjvpzrMrJl0/H19bDp7g2v5q+GAqunowD3R4TGlVlrD8BFYmfYVWUagKd2QXDdrbkDKKnNvGPgS1AAaMtOQACCd3vYMyIKkXF0TWMSgDn2ZCIIOQSQayUXzazTzQBwu157id0FlbOfAmgFOQhg7oy8N6uy6BYQ5DbgvP4pwG2blnoWUi1RiNkFSwaEMHZGBGRL56oHuAJAjnM9ArwBAKReaI3YsgD5vRHsq7dun1LskNG7KzQBJAg5cT4AODTPLQ8NARBAEfy+I9IMQBUgXK5+CnBTvCQIdf1yNEVLXKADhOwDvahdeADURS7HfOVI8AC4ZVgojodaR/1JbBMTIsi9uD9AW3Jn8A0Ak4P8k8AO8F13DCzJgT6ALJ8DrE3Dhlr/2OsEyP/YLuICUHsSo3JpaFkKkF+i3unfEJpcwC3uWNN/PNS1dev4Lm8htrnhqokhrFnAIxC/AQCKVPwVACvn7pMCeGzbTUrbBYyH6/DQV/7nFrgJvwZYIX0joiTs0aAUtsTAqjVKAMB/agmuBTG4gAQgqwyhA5CMyvMLtXNyf4glCMVL+ShAEAjBJc2ABWCLPy8r1HuSGAAC4ptLZ2PwYwAgrLG+GcDrp4XdAHEkSHj9tLAf4Hq5hqLpAh4lRGyhZylzFVNnhCDum9ZZmhaQpD7IXh+lOohugYWTEsCyWp70y6JU1AHSMexrWgPjmFCGf42iyT/79xWQHFwHQQAAAABJRU5ErkJggg==",
+  "imageHeight": 128,
+  "imageWidth": 128
+}

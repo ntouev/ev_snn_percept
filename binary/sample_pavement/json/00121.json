@@ -1,0 +1,39 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          52.33858267716535,
+          0.6561679790026247
+        ],
+        [
+          35.278215223097106,
+          125.59055118110236
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "../png/00121.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAEE0lEQVR4nMWb3ZarIAyFd7vmuXP2yoO7zgUiqBUSCZqLjhZIPvkJIXU+/+AQFQVEhQRBT8tL+bpqS/rD6nNU/ly1VcIBvm09h0LRREHarBtqWQCOFCBtyvt1aJoD2+MqBBAN6nw7QK4Lga7zgOg8XrOwLv6UZWgZVwUgBvt2qXrArpEouKMcDj+gxT6L5VGAj8sTzh0Cu33E2XcCrAshUrwAmnvgLYAsfBQgW6t6v+k0WmVDAFYD4QB7tYxchU4AqUGeBuAaDgQi0AGQ9mAx+6FeuRtAAELtTsgEAAcAACoAKF36IwEgAogYw8EZAOtOUAgiUFxh+XEKRAB4ekCPVp8GqPZBvgJQuaEI00mJPyCJW4JugOBQJIknKNVEwdD96MYQxMqNcwFzSPA0QBbCdowLB6h7f8j+rrFzCHI08ApAac05Q2DTuZr2A1y02AF0tI4twS4Au49Vnc/jZAfQlaXUjYLwTcJsmAgjMO8F/AJ5M5y0CgwVt2kY54tvHc+J9zIkG0CUmAGmRCN0AFQ7QdzhlD4/kA/Hk07HHa2S8vT7uvbD6qW4hiDb3rxAwMSwAXB/wd+1bgJYtLFx9wjAPkMXimHOkJyG+2EA6G4niBMrgKI6nD4PwPoqNkfzNTiT/MjRacIVoO9MvmDtc0Ltm4ZAwGozirVfANp6tfqMngNNAD3fWH83/i2ntp0hyGfB9HcZXwRegLrZsow9/G8xxQOpiLEeyAeQHSHHVwH3F46oeCA3wF/XHoB6Mx4FOBT4zwXs6HQqswOIqlaGYwA86XqVkDl4lE4PaOPuEYCyB4poyk/wUYA9DN8DiHttgHcAtLw2wNEu4OHGBLAPmvhD020a2npAtp3gxDGKYDsZaTqYxNjci+toNgfAJBL5Y5UfIE2B9wBU86uUA8IeQNvRyC0/xIvr+tsN4PoRVbC+RukNCnf1L5pe54pL5FMdinwAFrmeAztbko33CXi+PDWqvrBky3MPGAn2pnr1DatgG4Giz07RrekPSn0AXbkH0BfOArAqjgHQ49WEddgEkN0kjrNda/p8ul4+rQLGMmzybdtneZN3gnGgOwlXs9PCkf4qINJWhOE+uGjdB1AEpMd4F4CEQMbf5j62LPc9ACCdSzrG26Wt+rYhEKTXGS/teAGKNPMDXO0CIJbBFOWF9OOBgx+KhuhuRlsP4HDxAMBmK/onWxdATtHzBYBtK5gpTYBtwrFRaVC6q0ABLPZ/7nKLJSRbUiTEKQiWRGWxPAHAGJTOCkeaAKwu3gOYlCEuGq2u+D2A2dIAKM+eZgCnADSWoWwQc0wncQzB2Eq4atwDKImJwXOhH0DzpxCbL66LYuQaYDuzbeZ4KpoKUEjYrTIVYDmvwsghaIflBPBdTuFYawi8a+U/UDYv/m3uzDgAAAAASUVORK5CYII=",
+  "imageHeight": 128,
+  "imageWidth": 128
+}
