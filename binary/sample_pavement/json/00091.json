@@ -1,0 +1,39 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          59.425196850393704,
+          0.9186351706036745
+        ],
+        [
+          43.54593175853019,
+          126.37795275590551
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "../png/00091.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAEEUlEQVR4nMWb23LrMAhFdzP9bsrw4Z4+6BLJxrG42OElGR8JVhEIpPj8/DHDIUJCgFCb7dMC4IU+k6ePS9kAkHmWAtDFpIrA4rU5mXidDboQAeigzAPw6wSY1Xkoqng9AEhbAg7YZzcACdGb4AsAIKARcATDCVBMkwzp/yxARSCww/Q03glAqrIHAeSNEBR/GhbhrwGIa/mP8vPnst4WwF0EuwSXIGzfCUBoexBHQYJLEBenBwTI8D+iHogUwio+D2whmxwHiOWOBmDr74RQGyHe6zPL663RQjDadQMw4AxCobxE9K2miL8l1gDMenopcFod5jkAeNwHcgDss0vW1ErgxUCgKyYzgD7IDsAAQH0fME5UxAXQv2lazywlAQCA1FNZK0WzyZsBGABRK8cagEER4NsJBQABgs1lepZAFmyUYH8HYNXIvmmj+DqiatdoWB1vWgKJVR91sgmgHIZ7S14+/HdVdoBqcZsAgo2BJwt49/kwgBAEnHAqNAKItEpUvM5JBMsA1K9lC0qOedcS7JrixwFa2D+9BGPCE7DkgoUhFoBdwi94IBmgc0RaYt5/cQVhYBtIAOgNcU4q2vsBQbHNOQDmfqD2Y2lbkf0Xk+i5cBT2nIxaU55BwK4gbE25AqA8uhJXGlI5lx3NPQAg1XpaPTIEoRDqgWS2HatK9lpQLieGfiRk33syCrVk00x7DHQCN8AkZg9IfCOaZpoBqN0NJMkB4IPm9k+CtIZM98CZbgaEZL0jW1KreUD761rwjSFgZNCHL5XjkUhSi/FKEPLILuWKLlEGANZHqI+rT06m5ALsRMY0zAVYlPuWYCd8+FLsiyMBPoitKS3vTyEzC8xNqTi3oTOxxAADoP7WRhKDxQMMwliQU0T3wJlyKT0h31kNPwL0nyzvBriQtFpsBqD55annARC6nIgDSPu57oseqAB50gGOSo9P7BGgjpweGi8oZPrFMkNMtUBaP5pn35qGeYbNAAyAIIzcGDQBCEAc/eFor9YShAJKfIWq2OfuAfk0rgp5D0XnAH0Jlv600hFnlqJ3DKy5lu4DWFmD9EI0A3zwQTUpBM7dhbCYhtzsN/OJDIY0vGMjtm3F7XbmWwBb4L80pAC82uVQKsE6QHo7agWoG/H3AG7ZhmxZkHoqbEosMZBais0AcsNF9QxwoZTGZuRuAE3/OwsTreNkCVQT6bdDHwB0kWo/EYAd+0ByS2hJw/oeVe4iGNryxFf6R1nfB+6x77gfyLVvL8ffA8h8b8AD0BvCLICih1cBpBWjBhAORiMAAdiGozlntQXLHqDZ6NpKLAwypSFT/AWm6Rn34/ml2uH1JZfZ02mXANI+qKSACeBceixfLUFvg6TGAB9pPUzM9aRtuqgUfwwo5gv4P7wCQX7O/4rYAAAAAElFTkSuQmCC",
+  "imageHeight": 128,
+  "imageWidth": 128
+}

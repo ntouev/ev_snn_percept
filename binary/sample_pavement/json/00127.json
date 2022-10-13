@@ -1,0 +1,39 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          55.22572178477691,
+          0.7874015748031495
+        ],
+        [
+          38.16535433070867,
+          126.9028871391076
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "../png/00127.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAEYUlEQVR4nMWb0ZKsKgxF97Hmu3N35cO77gNgo4AkGuw82IxGsoQQAjr//oNDSJIAQULFc+dQNpd2sg+AUKiOtJYB8Fj7qAnWAszt+8TXBQmB1zoAOFe5CYDkgwEAzAcrQNFnKT/tgQEALQChUgNY6s8KHA3BpwAmUQUECkRQ/NV/GJ1XgA2QmIF48AHOn4mp+SXm8dF0weUzMf8m6zFxqO8DbNTKOQLgeBZ4CNCSDM5J0NMPAQbCZjp6GcBv3KB+GgWm2tTsg7EAORwTEjUCGoCJMHmBQhEWBjwALE2kQFgYcAJgj4OfIPs+AAIpCCi2n3RBSodSPh7VBf886wLmflA5LAocGWArthaoLbBJBJ7YvwGwSU5HYuRvrnLkIADRuFDkawECVFXN4fh9gG8gdodjDs5vl1dPN/OBwz0BqIYZAUhgPmTrAp4KgXOhdxQQmlogjuEP9q0OgoDG9kBeYZiFGrU1UwF47Kefjxz/fg8AKQrvdj0AA90KwNq3cs8L5gCzvmXKB8W4LhoYvAAwiYg1ChsBHHGAQZszR5m3AEtBNcdkZU9vXoETgKffUSI8pblWMOeE3KsKjcRWJ1SQXOECVgDB3gY6z8cYD1BUbVUHAByrSKEnbDXmB8hbMgTiVsUTgI5wL70ciCoERlt3AoCAhm6ReQCIrxNE+oFviyaHgMg2cLQAeVwS8C0Afgsq1d8xAJ7JKFn8WVZMIHBRfAMgrQuDzZsA8jOT8XG4BlCM6hfgmw2GI+wAgkkDF4RghmkXsCksGwXsKvBUCp4KsDUWBlIywoXDsNqJ6ZjPhse+ehvgwmytl4OwRIdC69LsUzZIfpSWJ4l7Ze0GYDqGvi1yASQPXdAAcwD92oeo0WWtwikAS5snPfHvKT0GqEscaD2RC4BkLvf7Z6K8DmCfjJlmY6kvuqR/i202LDFoVts6AAIQxs8E5lDM/RAdisyBKETlEcC06dcCgCkh/d1cgLBPl24CqK5YFxlHAdOcEP22BoBjdazG93V8AtC/mQDA1PtzH1gAkETDs8EMYOtWUj7AipxoM779ILcfpWTZPPgBw9dlRgDk6dAQjqMBWBU41FoHwHPJ3wOcKVwDsNTBu6nIBIDYJhqljvTs4T5Ayz4hgfSWPfDbma9cO6EWgE0WjEADgFQFhax4aVN1wWiHhFUEiG8Gy15xWhmvcQFzPnD6gG4NAEcExJqJyAwAQIK/X+oC/EQmSakKc2FVH2y8vCz7xsSyQNQCtGcAXbBRnwHaU+wgyI0vCO8BcD8ccfT+soSXV3cAHWgTeXfmdiRiU+gCjP91rntfW70DoL5nFAcOynmPuNsFDoDumelkxF1/zWRwEQmZj2WaXj8ZdQH2gh7Oze/yAYxHGA9XlwE0zcu6uCglrgEa4c6Qf/T9z3iOAPJ8bdat4ALgWPDMx11LPoDebfZhOADoyhSg92LRY2Ams206fgCeY+CLAATAJfuDRUzrAjZnXgMgAMp2SociAf4HCl9QGHJP+TEAAAAASUVORK5CYII=",
+  "imageHeight": 128,
+  "imageWidth": 128
+}

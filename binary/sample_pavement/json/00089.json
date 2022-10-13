@@ -1,0 +1,39 @@
+{
+  "version": "3.16.7",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          45.25196850393701,
+          126.64041994750656
+        ],
+        [
+          61.39370078740157,
+          1.1811023622047243
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "../png/00089.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAAAAADmVT4XAAAD9klEQVR4nMWb2XLkMAhF6a58N6H48Mw8aLUt2QJut3hJxbHEsRCLlrx+KSZCsv6y8uXR29D81BmRWttc9dsB6vusg++xy9vaoAAoMV+ffgFgLFsAVIO6owDnKSWuTl5BNzR54Ui8I6B2HxyKeAF45NMegNc/gXTklrfThvcmMPT59umn6gPD9hYA9yw+RgFvL4E4cBwBP4CzJWtS6lZcxBuIIJmQqDOBLa4o5ykgMAD7F0k2gIQw/JNQJWUCkdBMeP2GxjGci+hNdn6pgTCuv5nA0JMQMbHGAErD5IYiRkMoKBmWERCaDsHYPVHq514g96r0LhVhASaCqYduAB4EsiQIAPTfvwWgV74FIKcirfkgBODqgWseCMrr19OJEjEBPp+cNaEy5TCMADBIUcd5aQ7IRWeA+/hS1CmhKsILAMtar7BIfDHBIgCqInRHQhYiQeg3AwilzxcBAbjWBSkMYNzwx6OfczkQV++ZAwitXgA9Asjktc8BHMozRBi0AiSBrUtdAELEJRlvmYSSt8kl//JhgFluqtsTcYSHQDSy91fnwGRZknMRAiCwV6x/CAL3ukAIot8MoESqp4o0BFIAVjvhPC+ENgEk11RMLdADWISV/erPLT0AyqTuGAQA0DwPMFZwjUD64QfoG1oAUjvm00799wCy5B0ykB+sA+QUXDfovg5Q8xKwJDYBnEhiA9AaO70gGgk9AKU6UuUTQIjFPgeuNcqXAIrgdmknANI6H+hQZoWuzuwlWdqhguXjZRPo4SdoXXYEuO+Si35EGOik7Q/cb5CdQWDSRsDSc2AGnBu+b//aSR6gdFYFBPAuTHYVpXWioPRbAUo1tO3MqOiVv00A7faOfApgreNgJOwauwFCuu8AHmS+Jrg+mQN0v1gnYTovGylbBDi3WU5GWX9eE8C8cAXg8DxnY5gXHkwwJjiam3NRDAPotusnw3rRxdCduj4ZAb9rXZ5N0EvnhM8v2wGeBXdtwAkAO65rHZjOjHDe3wDMJhCKL017MZ+aCXJRQN4zIwvAw7sWAFXPoTUQoFwdgYoFoNRj8hmA569D3SefADznF9R98gnAo6iWakj2AFC9xLgLoE7BXQBlc6TfRvoqQD0u2gdQC2mUehfA3zaAtk+P0x/+N5+wGEZAak3antzIYtheAChq6uQrD+4D0mLYXjaBSDsquVVslGUTSPumXaFYg1tk41a2OODTDALQUpNHIK6yHgfytQWofhGLCVhJwdWA+IpSpIjLCzCq02iuABTF2O/Pe/4rANwohFBukCfTxQTT3jlfZj10EQEQIRJZd8N2kTSitidI/IZAlNuNAAaPnpSX8VsGYC7J+KzNpl2K+XOz/3LaLpQ/BViaAAAAAElFTkSuQmCC",
+  "imageHeight": 128,
+  "imageWidth": 128
+}
