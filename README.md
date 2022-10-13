@@ -1,18 +1,19 @@
-# A framework for DVS event streams manipulation and contour-based areas real-time detection and tracking, using Neuromophic Computing.
+# A framework for **DVS** event streams manipulation and contour-based areas real-time detection and tracking, using **SpiNN-3** Neuromorphic platform.
 
 ## Overview
-![](../images/drone-dvs.png)
+![](images/drone-dvs.png)
 
 This repository contains the code used in my thesis, **Multicopter control using dynamic
 vision and neuromorphic computing** which can be found [here](thesis.pdf). The code is abstractly divided in the following categories.
+
 - Scripts to manipulate aedat files (event streams recorded by event cameras e.g. DVS).
-- Development of a contour-based areas real-time detection and tracking framework in
-	- jupyter notebooks and python scripts (used for offline tuning).
-	- ROS nodes written in C++ (used in real-time operation in embedded PC).
+- Development of a contour-based areas real-time detection and tracking framework with
+	- an SNN + jupyter notebooks (offline operation & tuning).
+	- an SNN + ROS nodes written in C++ (real-time operation in embedded PC).
 
-The formulation and detailed explanation of the various modules in this framework can be found in the thesis document. Please read this prior to proceeding on this repository, to have a better understanding of the code.
+*The formulation and detailed explanation of the various modules in this framework can be found in the thesis document. Please read this prior to proceeding on this repository, to have a better understanding of the code.*
 
-If you are interested in the interfacing of a DVS to the SpiNNaker platform, **SpiNN-3**, using a custom FPGA design see the [spinn_aer_if](https://github.com/ntouev/spinn_aer_if) repository.
+If you are interested in the interfacing of the DVS to SpiNN-3, using a custom FPGA design see the [spinn_aer_if](https://github.com/ntouev/spinn_aer_if) repository.
 
 ## Usage
 ### Basic repository setup
