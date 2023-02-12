@@ -4,7 +4,7 @@
 ![](images/drone-dvs.png)
 
 This repository contains the code used in my thesis, **Multicopter control using dynamic
-vision and neuromorphic computing** which can be found [here](thesis.pdf). The code is abstractly divided in the following categories.
+vision and neuromorphic computing** which can be found [here](https://dspace.lib.ntua.gr/xmlui/handle/123456789/56541). The code is abstractly divided in the following categories.
 
 - Scripts to manipulate aedat files (event streams recorded by event cameras e.g. DVS).
 - Development of a contour-based areas real-time detection and tracking framework with
